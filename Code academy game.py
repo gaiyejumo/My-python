@@ -1,8 +1,10 @@
 import random
 
-money = 100
+money = int(input("How much are you willing to bet?: "))
 
 # write your game of chance functions here
+
+Guess = int(input("Guess a  random number: " ))
 
 num = random.randint(1, 10)
 
