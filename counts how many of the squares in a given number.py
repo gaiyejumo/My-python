@@ -18,7 +18,7 @@ for i in range(1,101):
 print('Number',count_1,'is the total number that ends in a 4')
 
 print()
-""""
+"""
 for i in range(1,101):
    if (i**2)%10 == 9:
        count_2 = count_2 + i
