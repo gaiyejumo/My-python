@@ -6,6 +6,7 @@ Python short programs
 
 # ANN
 This ANN code was written to  train a model for a group project in school.
+![image](https://user-images.githubusercontent.com/41402706/211504778-729f9a51-faa7-4b56-998e-67af9a7d99ab.png)
 
 # Guess Game
 ![image](https://user-images.githubusercontent.com/41402706/211492347-9320454e-1eea-47d4-9fbe-5a91ed2de169.png)
