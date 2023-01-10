@@ -1,3 +1,5 @@
+# This simple code prints out a diamond of any giving number
+
 def Draw():
     x = int(input("Please input a number to draw a diamond: "))
     z = 0
