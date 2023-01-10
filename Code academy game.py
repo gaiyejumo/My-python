@@ -1,9 +1,12 @@
+# This files houses two codes written in my code academy class
+
+# Random Guess Game
 import random
 
+# This code takes in integer input and stored in variable money
 money = int(input("How much are you willing to bet?: "))
 
 # write your game of chance functions here
-
 Guess = int(input("Guess a  random number: " ))
 
 num = random.randint(1, 10)
@@ -19,9 +22,10 @@ def Guess_Game(Guess, bet):
 
 
 
-print(Guess_Game(10, 10))
+# print(Guess_Game(10, 10))
 
 
+# A coin game - What happens after a code has been flipped for certain number of times and its possible out
 flip = random.randint(1, 2)
 
 def Coin_flip(coin, bet):
