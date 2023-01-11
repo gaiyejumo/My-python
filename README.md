@@ -39,6 +39,13 @@ Output
 ![image](https://user-images.githubusercontent.com/41402706/211747912-8dfc8a9e-167f-4487-ae86-e51add82c5cc.png)
 
 
+# Sorting Algorithms
+
+![image](https://user-images.githubusercontent.com/41402706/211833159-03ffbdd0-96e3-4ca6-8781-20a93dfc5304.png)
+
+![image](https://user-images.githubusercontent.com/41402706/211833306-569253c7-ec7b-4420-bce9-09ccd94d88b3.png)
+
+![image](https://user-images.githubusercontent.com/41402706/211833452-adfa559a-1d37-4b0b-abd6-fbd7d989b833.png)
 
 
 
