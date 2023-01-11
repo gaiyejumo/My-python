@@ -6,18 +6,23 @@ sum = 0
 num_digits = len(card_number)
 oddeven = num_digits & 1
 # Ensuring that only positive numbers from 0 the total number of card number
-for count in range(0, num_digits):
-    digit = int(card_number[count])
+
+if len(card_number) != 16:
+    print ("Incomplete card number")
+
+else:
+    for count in range(0, num_digits):
+        digit = int(card_number[count])
 
     if not (( count & 1 ) ^ oddeven ):
         digit = digit * 2
-        print("You number is incomplete")
+        print("Your number is incomplete")
 
     if  digit > 9:
         digit = digit - 9
         sum += digit
-
-print ((sum % 10) == 0)
+    print((sum % 10) == 0)
+    print("Your credit card number is correct")
 
 """
 
