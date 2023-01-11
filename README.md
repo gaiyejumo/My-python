@@ -29,6 +29,16 @@ Output
 
 ![image](https://user-images.githubusercontent.com/41402706/211745227-46baad25-f57c-4fe4-b265-a85f88cf2c06.png)
 
+# Draw a diamond of any given number
+Source code
+
+![image](https://user-images.githubusercontent.com/41402706/211748104-30b0f8f5-10f3-4474-867e-04cf8adea9ee.png)
+
+Output
+
+![image](https://user-images.githubusercontent.com/41402706/211747912-8dfc8a9e-167f-4487-ae86-e51add82c5cc.png)
+
+
 
 
 
