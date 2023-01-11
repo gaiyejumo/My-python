@@ -22,9 +22,11 @@ Output
 
 # Luhn Algorithm
 Source codes
+
 ![image](https://user-images.githubusercontent.com/41402706/211745343-6b5f429b-c01c-4309-bcc0-ba16b594f8de.png)
 
 Output
+
 ![image](https://user-images.githubusercontent.com/41402706/211745227-46baad25-f57c-4fe4-b265-a85f88cf2c06.png)
 
 
