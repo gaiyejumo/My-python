@@ -20,3 +20,13 @@ Output
 
 ![image](https://user-images.githubusercontent.com/41402706/211503386-7157ff5b-6cc1-4c8c-92db-3b7c167e427b.png)
 
+# Luhn Algorithm
+Source codes
+![image](https://user-images.githubusercontent.com/41402706/211745343-6b5f429b-c01c-4309-bcc0-ba16b594f8de.png)
+
+Output
+![image](https://user-images.githubusercontent.com/41402706/211745227-46baad25-f57c-4fe4-b265-a85f88cf2c06.png)
+
+
+
+
