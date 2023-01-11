@@ -16,9 +16,10 @@ else:
 
     if not (( count & 1 ) ^ oddeven ):
         digit = digit * 2
-        print("Your number is incomplete")
+        print("Your credit card number is incorrect")
 
-    if  digit > 9:
+    else:
+        digit > 9
         digit = digit - 9
         sum += digit
     print((sum % 10) == 0)
