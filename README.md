@@ -47,5 +47,11 @@ Output
 
 ![image](https://user-images.githubusercontent.com/41402706/211833452-adfa559a-1d37-4b0b-abd6-fbd7d989b833.png)
 
+# Simple Cheque out receipt Design
+
+![image](https://user-images.githubusercontent.com/41402706/212029162-c35f41a6-4475-46e7-9486-e82f3fe9a419.png)
+
+![image](https://user-images.githubusercontent.com/41402706/212030055-be2d32c4-902d-4a0e-b969-fcf3af04c4ba.png)
+
 
 
