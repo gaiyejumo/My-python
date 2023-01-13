@@ -1,4 +1,6 @@
 ##########################################################
+# The following codes below shows some sorting algorithm written in python programming language.
+
 def bubble_sort(nums):
       swapped = True
       while swapped:

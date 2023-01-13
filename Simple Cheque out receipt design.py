@@ -21,7 +21,8 @@ luxurious_lamp_price = float(52.15)
 # Now defining for sales tax
 sales_tax = float(.088)
 
-# This is to keep a running tally of their expenses by defining a variable. Since they haven't purchased anything yet, let's set that variable to = 0.
+# This is to keep a running tally of their expenses by defining a variable. 
+# Since they haven't purchased anything yet, let's set that variable to = 0.
 customer_one_total = 0
 
 # now creating a variable to keep a list of the things a customer is purchasing.
